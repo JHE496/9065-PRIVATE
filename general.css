@@ -58,6 +58,12 @@ h1.quote{
 #name{
     text-align: right;
 }
+form.MIDBUTTONS{
+    text-align: center;
+}
+form.MIDBUTTONS button{
+    text-align: center;
+}
 div.video{
     text-align: center;
     background-color: #fff;

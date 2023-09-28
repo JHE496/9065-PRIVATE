@@ -1,0 +1,12 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#Mine:
+test.html
+teststyle.css
+*.jpg
+*.png
+*.jpeg
+*.webp
