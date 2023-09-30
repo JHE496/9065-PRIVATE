@@ -97,6 +97,9 @@ button {
     cursor: pointer;
     text-decoration: none;
 }
+button.index{
+    background-color: #000000;
+}
 
 button a {
     color: #fff;
@@ -120,5 +123,3 @@ footer {
     padding: 10px;
     line-height: 1.5;
 }
-
-
